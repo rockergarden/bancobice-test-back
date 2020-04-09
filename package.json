@@ -1,0 +1,21 @@
+{
+  "name": "ms_indecon",
+  "version": "1.0.0",
+  "description": "Servicio que consume api indecon",
+  "main": "server.js",
+  "scripts": {
+   
+    "test": "mocha './test/**/*spec.js'"
+  },
+  "author": "Cristián Riveros",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mocha": "^7.1.1",
+    "request": "^2.88.2"
+  }
+}
