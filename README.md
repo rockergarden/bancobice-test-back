@@ -30,3 +30,5 @@ Los Test se ejecutan con el comando **"npm test"**, los test ejecutados verifica
 ## Servidor de pruebas
 
 Una vez ejecutado se debe entrar a la url: [http://localhost:3000/](http://localhost:3000/) y una vez desde ahí se puede entrar a la aplicación.
+
+El backend responde en la url http://localhost:3000/get_last para obtener la lista completa de indicadores diarios y a http://localhost:3000/get_detail/?key=<indicador> para ver el detalle de cada indicador.
