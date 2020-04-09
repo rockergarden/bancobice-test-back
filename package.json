@@ -4,7 +4,6 @@
   "description": "Servicio que consume api indecon",
   "main": "server.js",
   "scripts": {
-   
     "test": "mocha './test/**/*spec.js'"
   },
   "author": "Cristián Riveros",
